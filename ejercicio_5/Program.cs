@@ -29,7 +29,6 @@ namespace ejercicio_5
             Console.WriteLine("La resta es: "+resta);
             //esta es la forma en la que puedes poner varias respuestas en una linea
             Console.WriteLine("La multiplicación es: {0}, la suma es: {1}", multi, suma);
-            //hola erick
         }
     }
 }
